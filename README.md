@@ -30,5 +30,4 @@ All repositories are a glimpse of my curriculum works as well as my side journey
 
 <a href="http://www.github.com/Ahad-23"><img src="https://github-readme-stats.vercel.app/api?username=Ahad-23&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Ahad-23's GitHub stats" /></a>
 
-<a href="https://github.com/Ahad-23" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahad-23&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
