@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student, Gamer, Gymrat, Coffee connoisseur
 ----------------------
 
-I'm a sophomore in BTech CSE with a specialization in AI and Data Science at MIT World Peace University, Pune. 
+I'm a BTech CSE junior specializing in AI and Data Science at MIT World Peace University, Pune.
 All repositories are a glimpse of my curriculum works as well as my side journeys of web development, web3, and data analytics.
 
 * 🌍  I'm based in Pune, India
