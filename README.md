@@ -34,3 +34,6 @@ All repositories are a glimpse of my curriculum works as well as my side journey
 <img align="center" src="https://api.githubtrends.io/user/svg/Ahad-23/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark" alt="Ahad Shaikh" />
 
 <img align="center" src="https://api.githubtrends.io/user/svg/Ahad-23/repos?time_range=one_year&include_private=True&group=private&theme=dark" alt="Ahad Shaikh" />
+
+### Current Vibe
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=6nv5aop0zc9ux2d2u23x8embg&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=5e4eb1&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=6nv5aop0zc9ux2d2u23x8embg&redirect=true)
