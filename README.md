@@ -5,10 +5,10 @@ Student, Gamer, Gymrat, Coffee connoisseur
 ----------------------
 
 I'm a BTech CSE junior specializing in AI and Data Science at MIT World Peace University, Pune.
-All repositories are a glimpse of my curriculum works as well as my side journeys of web development, web3, and data analytics.
+All repositories provide a glimpse of my curriculum works and side journeys in web development, Web3, and data analytics.
 
 * 🌍  I'm based in Pune, India
-* ✉️  You can contact me at [ahad.shaikkh@gmail.com](mailto:ahad.shaikkh@gmail.com)
+* ✉️  You can contact me at [ahad.shaikkh@gmail.com](mailto:ahad.debugs@gmail.com)
 * 🧠  I'm learning MERN, Data Analytics, Ethereum
 * 🤝  I'm open to collaborating on AI, web3, data analytics
 
