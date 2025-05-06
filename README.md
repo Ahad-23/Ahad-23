@@ -8,13 +8,12 @@ Student, Gamer, Gymrat, Coffee connoisseur
 ----------------------
 
 I'm a BTech CSE junior specializing in AI and Data Science at MIT World Peace University, Pune.
-All repositories provide a glimpse of my curriculum works and side journeys in web development, Web3, and data analytics.
+All repositories provide a glimpse of my curriculum works and side journeys in web development,machine learning and deep learning.
 
 * 🌍  I'm based in Pune, India
 * ✉️  You can contact me at [ahad.debugs@gmail.com](mailto:ahad.debugs@gmail.com)
-* 🧠  I'm learning MERN, Data Analytics, Ethereum
-* 🤝  I'm open to collaborating on AI, web3, data analytics
-
+* 🧠  I'm learning MERN, Spring Boot, Flask, Deep Learning
+* 🤝  I'm open to collaborating on AI, Backend Development, Deep learning
 ### Skills
 
 
